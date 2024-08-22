@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carterTriesCode
-- 🌱 I’m currently learning C#, ASP.NET and DevOps
+- 🌱 I’m currently learning Django and DevOps
 - 💞️ I’m looking to collaborate on web development as a backend developer
 - 📫 How to reach me: jcslogan67@gmail.com
 - ⚡ Fun fact: former collegiate rocket league player
