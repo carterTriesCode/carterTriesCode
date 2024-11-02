@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @carterTriesCode
-- 🌱 I’m currently learning Django and DevOps
-- 💞️ I’m looking to collaborate on web development as a backend developer
-- 📫 How to reach me: jcslogan67@gmail.com
+- 🌱 I’m currently learning Django, React, and Cloud
+- 📫 I’m looking to collaborate on web development as a backend developer
 - ⚡ Fun fact: former collegiate rocket league player
