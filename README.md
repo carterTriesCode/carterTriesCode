@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carterTriesCode, a recent CS Graduate @ UGA
-- 🌱 I’m currently learning web development
-- 📫 I’m looking to collaborate on web development as a backend developer
+- 👋 Hi, I’m @carterTriesCode, an SWE/SRE
+- 🌱 I’m currently learning AI integration and workflows
+- 📫 I’m looking to automate services utilizing AI
 - ⚡ Fun fact: former collegiate rocket league player
