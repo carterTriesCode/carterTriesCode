@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @carterTriesCode, an SWE/SRE
 - 🌱 I’m currently learning AI integration and workflows
-- 📫 I’m looking to automate services utilizing AI
+- 📫 I’m looking to automate operational services utilizing AI
 - ⚡ Fun fact: former collegiate rocket league player
